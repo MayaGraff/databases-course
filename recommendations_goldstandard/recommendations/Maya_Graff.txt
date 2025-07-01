@@ -1,0 +1,230 @@
+
+# movies Richard Donner directed
+INSERT INTO imdb_ijs.movies_recommendations VALUES (47757, 69812, 'Bronk', 'Conspiracy Theory', 8, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (69812, 131885, 'Conspiracy Theory', 'Goonies, The', 8, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (131885, 160375, 'Goonies, The', 'Inside Moves', 8, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (160375, 183873, 'Inside Moves', 'Ladyhawke', 8, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (183873, 188507, 'Ladyhawke', 'Lethal Weapon', 8, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (188507, 188509, 'Lethal Weapon', 'Lethal Weapon 2', 7, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (188509, 188510, 'Lethal Weapon 2', 'Lethal Weapon 3', 7, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (188510, 188511, 'Lethal Weapon 3', 'Lethal Weapon 4', 7, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (188511, 196711, 'Lethal Weapon 4', 'Lucas Tanner', 8, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (196711, 208245, 'Lucas Tanner', 'Maverick', 7, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (208245, 240327, 'Maverick', 'Omen, The', 7, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (240327, 254662, 'Omen, The', 'Philbert (Three''s a Crowd)', 7, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (254662, 270628, 'Philbert (Three''s a Crowd)', 'Radio Flyer', 8, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (270628, 286243, 'Radio Flyer', 'Salt and Pepper', 8, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (286243, 288107, 'Salt and Pepper', 'Sarah T. - Portrait of a Teenage Alcoholic', 7, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (288107, 291495, 'Sarah T. - Portrait of a Teenage Alcoholic', 'Scrooged', 7, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (291495, 294142, 'Scrooged', 'Senior Year', 7, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (294142, 296755, 'Senior Year', 'Shadow in the Streets, A', 7, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (296755, 319602, 'Shadow in the Streets, A', 'Superman', 7, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (319602, 319613, 'Superman', 'Superman II', 7, 'Maya Graff', 'same director',NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (319613, 47757, 'Superman II', 'Bronk', 7, 'Maya Graff', 'same director',NULL);
+
+# movies that are in the same 3 genres: Action, Sci-Fi, and Adventure
+INSERT INTO imdb_ijs.movies_recommendations VALUES (311036, 313478, 'Spider-Man', 'Star Wars: Episode V - The Empire Strikes Back', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (312152, 319619, 'Spy Kids 3-D: Game Over', 'Superman Returns', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (313507, 319625, 'Star Wars: X-Wing Alliance', 'Superman: The Last Son of Krypton', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (311048, 313474, 'Spider-Man: The Movie Game', 'Star Wars: Episode I - The Phantom Menace', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (319601, 311036, 'Superman', 'Spider-Man', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (11578, 3079, 'Careful, He Might Hear You', 'A Foreign Affair', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (117992, 13916, 'Joey', 'Cast Away', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (185501, 98240, 'Mr. Magoo', 'Edge of the City', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (29674, 3423, 'Blind Faith', 'Battleground', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (67430, 16212, 'Dead Man''s Curve', 'Blood Out', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (261712, 18909, 'Shootfighter II', 'Carpool', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (317070, 247547, 'Sport, der Kill', 'Nosferatu the Vampyre', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (2317, 303509, 'Alleluia', 'The Unknown Known', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (256127, 1799, 'Poolhall Junkies', '2176', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (140171, 11858, 'Go', 'Capone', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (3725, 283024, 'Birdman of Alcatraz', 'Ruby', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (322226, 220438, 'Summer Children, The', 'Nightwatch', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (22110, 64743, 'Charlie Chan in Danger', 'Dangerous Summer, A', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (43677, 126176, 'Claudine', 'Gay Purr-ee', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (9417, 78257, 'Breakfast of Champions', 'Dororo', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (285983, 70918, 'Roomies', 'Devil''s Own, The', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (205786, 157882, 'Puffball', 'Holy Mountain, The', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (217201, 143936, 'Quest for Camelot', 'Hairspray', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (140040, 31943, 'Go Henry, Go!', 'Chicago 10', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (7977, 310474, 'Boys Don''t Cry', 'Starship Troopers 3: Marauder', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (221581, 218782, 'Ring 0: Birthdays', 'Night on Earth', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (211196, 102038, 'Priest, The', 'Eyes of Laura Mars', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (160408, 271648, 'Into the Sun', 'Rock, The', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (284023, 219664, 'Salomè', 'Nobody Knows Anything!', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (195142, 61481, 'Paradise Alley', 'David Copperfield', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (4419, 279374, 'Big Deal on Madonna Street', 'Romeo Must Die', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (48325, 312152, 'Congo', 'Spy Kids 3-D: Game Over', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (240618, 44345, 'Of Mice and Men', 'Bigfoot', 9, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (100114, 322394, 'Everything Is Illuminated', 'Swimfan', 8, 'Maya Graff', '3 same genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (145454, 155570, 'Hidalgo', 'His Girl Friday', 8, 'Maya Graff', '3 same genres', NULL);
+
+
+
+# movies where Johnny Depp and Helena Bonham Carter act together or individually
+INSERT INTO imdb_ijs.movies_recommendations VALUES (59578, 70959, 'Charlie and the Chocolate Factory', 'Corpse Bride, The', 9, 'Maya Graff', 'same 2 actors', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (70959, 59578, 'Corpse Bride, The', 'Charlie and the Chocolate Factory', 9, 'Maya Graff', 'same 2 actors', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (3055, 120506, '76th Annual Academy Awards, The', 'From Hell', 8, 'Maya Graff', 'same actor', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (97360, 313799, 'Ed Wood', 'Stars of Star Wars: Interviews From the Cast, The', 8, 'Maya Graff', 'same actor', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (53921, 304864, 'Cannes Man', 'Sleepy Hollow: Behind the Legend', 7, 'Maya Graff', 'same actor', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (152941, 46190, 'Hunter Goes to Hollywood', 'Bravo Profiles: Johnny Depp', 8, 'Maya Graff', 'same actor', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (157521, 241143, 'In Bad Taste', 'Once Upon a Time in Mexico', 7, 'Maya Graff', 'same actor', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (80432, 102108, 'Dead Man Walking: The Making of Dead Man', 'Epic at Sea: The Making of ''Pirates of the Caribbean: The Curse of the Black Pearl'', An', 8, 'Maya Graff', 'same actor', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (256632, 74259, 'Pirates of the Caribbean: The Curse of the Black Pearl', 'Cry-Baby', 7, 'Maya Graff', 'same actor', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (98681, 340184, 'El Mariachi: 10 Years Later', 'Trois petites filles', 7, 'Maya Graff', 'same actor', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (404721, 119437, 'Secrets of Superstar Fitness', 'Freddy''s Dead: The Final Nightmare', 8, 'Maya Graff', 'same actor', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (37057, 183722, 'Big Fish', 'Lady Jane', 7, 'Maya Graff', 'same actor', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (211500, 137923, 'Merlin (1998/II)', 'Hamlet (1990/I)', 8, 'Maya Graff', 'same actor', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (274007, 246784, 'Planet of the Apes: Rule the Planet', 'Hamlet (1990/II)', 7, 'Maya Graff', 'same actor', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (56449, 181543, 'Capturing Mary', 'Hollywood Greats: Richard Burton', 8, 'Maya Graff', 'same actor', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (55471, 308787, 'Carnivale', 'Soccer Shootout: Women''s Football', 7, 'Maya Graff', 'same actor', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (248614, 192705, 'Narrated by Helena Bonham Carter: Football', 'Margaret''s Museum', 7, 'Maya Graff', 'same actor', NULL);
+
+
+
+# movies with a Vamire role
+INSERT INTO imdb_ijs.movies_recommendations VALUES (6775, 304006, 'Advanced Warriors', 'Skin Walker', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (115888, 350186, 'Flow', 'Vampire Holocaust', 8, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (198835, 167049, 'Macabre Pair of Shorts', 'Jesus Christ Vampire Hunter', 8, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (78829, 350212, 'Dark Fiction', 'Vampire Time Travelers', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (156860, 105779, 'Imagination', 'Exhumed', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (174154, 350216, 'Karmina', 'Vampyres', 8, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (99766, 350176, 'Embrace of the Vampire', 'Vampire Brides', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (234499, 350211, 'Nocturnu', 'Vampire Survivor', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (350187, 170243, 'Vampire Junction', 'Jugular Wine: A Vampire Odyssey', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (121528, 48932, 'Full Frontal', 'Buffy''s Nude Camera Party', 8, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (161108, 44238, 'Interview with the Vampire: The Vampire Chronicles', 'Bordello of Blood', 8, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (373384, 350215, 'Ygen kaisha', 'Vampyr', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (6264, 241058, 'Addicted to Murder', 'Once in a Blue Moon', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (350185, 350213, 'Vampire Hunter', 'Vampire Trailer Park', 8, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (214386, 342675, 'Mina Seward', 'Twisted Tales', 8, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (54984, 350214, 'Caress of the Vampire 2', 'Vampire Vixens from Venus', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (44238, 350176, 'Bordello of Blood', 'Vampire Brides', 8, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (105774, 350180, 'Evil Lives', 'Vampire Cheerleaders', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (350187, 350217, 'Vampire Junction', 'Vamps', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (350183, 350184, 'Vampire at Midnight', 'Vampire Cop', 8, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (350210, 350219, 'Vampire Sisters', 'Velvet Vampire', 8, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (350218, 350220, 'Vampires Anonymous', 'Vlad', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (350209, 350221, 'Vampire Sisters 2: Bats in the Belly', 'Young Dracula', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (350191, 350222, 'Vampire Journals', 'Zombie Vampire Hunter', 8, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (350188, 350223, 'Vampire Host', 'Vampire Island', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (350189, 350224, 'Vampire in Brooklyn', 'Vampire''s Kiss', 8, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (350192, 350225, 'Vampire Killers', 'Vampire You Love', 7, 'Maya Graff', 'same role', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (350206, 350226, 'Vampire Runner', 'Vampires: Los Muertos', 8, 'Maya Graff', 'same role', NULL);
+
+
+# movies from different genres
+INSERT INTO imdb_ijs.movies_recommendations VALUES (17106,225270,'Ani Umlal Achshav','Mnner vom K3 - Dreckiges Geld, Die',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (176742,267253,'Kill Squad','Punk, The',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (24212,219536,'Aunt Fannie','Mortal Kombat 4',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (27191,201856,'Bad Company','Making of a Supermodel, The',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (140835,344892,'He Pulled the Wrong Tooth','Uma Visita  Fbric...Carlos da Costa Frescata',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (187862,298340,'Leo the Late Bloomer','Shen Jing Dao yu Fei Tian Mao',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (200128,296961,'Magic Carpet, The','Shadows on the Snow',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (158109,340863,'In the Best of Families: Marriage, Pride & Madness','True Whispers',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (136500,311706,'Gyojang seonsaeng sanggyeonggi','Sport Slants (1934/II)',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (202785,272459,'Mammamia (1998/I)','Ras-le-bol sous les ponts de Paris',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (248983,315530,'Paris at Midnight','Storm Over Lisbon',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (76853,191955,'Dai zi hong lang','Little Liar, The',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (146867,330770,'Hitler, Schinder und wir','Who''s Afraid of Mother Goose?',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (33594,298208,'Belle of Bettwys-y-Coed, The','Sheepish Wolf, The',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (87341,286160,'Dirty Harry','Salmo del viento',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (183242,231757,'Lacenaire','Night',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (94020,99628,'Drowning Pool, The','Ely and Nepomuk',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (247157,313862,'Na Palma da Mão','Sunday, A Story',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (155007,289449,'Hongri Shi Qi','Sen to Chihiro in Kamikakushi',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (131312,328646,'Gearhart''s Ghost','Thorns of Grief, The',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (121528,48932,'Full Frontal','Buffy''s Nude Camera Party',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (200953,341999,'Man Who Cried for God, The','Unclaimed Territory',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (29999,194547,'Banned (1918)','Life Show',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (297898,343067,'Shadow Child','Two Hearts in Wax Time',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (167295,299636,'Jian xi xiong','Stop That Cab',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (336548,31204,'The Toymaker','Atlas Shrugged: Part II',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (198835,167049,'Macabre Pair of Shorts','Jesus Christ Vampire Hunter',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (80724,34354,'Dance of Moths','Blood Wedding',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (6264,241058,'Addicted to Murder','Once in a Blue Moon',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (105774,350180,'Evil Lives','Vampire Cheerleaders',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (214386,342675,'Mina Seward','Twisted Tales',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (54984,350214,'Caress of the Vampire 2','Vampire Vixens from Venus',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (350210,350219,'Vampire Sisters','Velvet Vampire',2,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (4419,279374,'Big Deal on Madonna Street','Romeo Must Die',3,'Maya Graff','different genres', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (185501,98240,'Mr. Magoo','Edge of the City',2,'Maya Graff','different genres', NULL);
+
+
+# movies with same number of roles
+INSERT INTO imdb_ijs.movies_recommendations VALUES (317938,313889,'Suburban Swingers 2','Staryj znakomyj',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (236995,223773,'Nutt House, The','My Brother''s Keeper',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (329456,17751,'That Lucky Touch','Annie',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (184022,286925,'Laila Majnu','San Fernando Valley',2,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (128261,265473,'Girl in a Swing, The','Profile for Murder',2,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (130211,142897,'Godzina pasowej rózy','Henry IV, Part I',2,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (350641,66633,'Variety','Code of the Outlaw',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (364996,343712,'Wien-Film','Tsen frn Stormyrtorpet',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (221215,403668,'Mrs Caldicot''s Cabbage War','Roman o Londonu',2,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (146425,241857,'Histoires de voyous: L''Élgant','One Woman''s Courage',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (292451,138774,'Secret Life of an American Wife, The','Happy Endings (1983/I)',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (250745,149918,'Patriot, The (1998/I)','Hossz alkony',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (233815,180083,'My Son, the Hero','Johnny Nobody',2,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (230561,199449,'Mnin duyuru','King Solomon''s Mines (1985)',2,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (175342,340614,'Kanamarayathu','Tombstone Canyon',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (200631,342500,'Madame Louise','Twisted Pair',2,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (279630,343414,'Rider on the Rain','Triumph of the Will',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (151547,253650,'Honeymoon Hotel','Phantom of the Paradise',2,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (292718,140345,'See Arnold Run','Here Come the Jets',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (169947,281688,'It''s Always Fair Weather','Road to Rio',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (348923,183956,'Ubalda, All Naked and Warm','Lady Ice',2,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (292177,346214,'Second Time Lucky','Uuno Turhapuro – This Is My Life',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (226471,310245,'Mud and Sand','Snowbound (1948)',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (322242,265503,'Swamp Water','Profile Two',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (198073,353024,'Ma Barker''s Killer Brood','Voglio la testa di Garcia',2,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (322487,259849,'Swingers Massacre','Powers of Ten',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (339280,112228,'Tom Mihaut''s Dream','Gettysburg (1993)',2,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (152006,270969,'Honeymoon Machine, The','Raiders of the Seven Seas',2,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (142748,210030,'Heavenly Body, The','Night Stalker, The (1972)',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (331956,188566,'Three Men in the Snow','Life of Jimmy Dolittle, The',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (346002,176403,'Two Lost Worlds','Ibrahim Labyad',2,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (310682,245321,'Something to Live For','Shepherd of the Hills, The',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (211684,265443,'Pond and the Stream, The','Professor Bewilderment',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (142104,274864,'Hearts in Bondage','River''s Edge, The (1957)',2,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (311649,353498,'Space Rage','Voodoo Island',1,'Maya Graff','same number of roles', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (128598,334887,'Girl Next Door (1953), The','Terror Street',2,'Maya Graff','same number of roles', NULL);
+
+
+# movies with same actor first name - Ben
+INSERT INTO imdb_ijs.movies_recommendations VALUES (386588,172919,'"Doctor Who: Scream of the Shalka"','Kama Sutra, Tantra and Tao: The World''s Most Erotic Sex',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (254478,390177,'Phantom Horseman, The','"Glory Days"',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (334766,233815,'Together We Live','My Son, the Hero',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (194939,283546,'Lost Portrait, The','Running Mates',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (31991,80477,'Beau Bandit','Dead Heat',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (142897,221215,'Henry IV, Part I','Mrs Caldicot''s Cabbage War',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (130211,335277,'Godzina pasowej rózy','Tommy',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (292451,172919,'Secret Life of an American Wife, The','Kama Sutra, Tantra and Tao: The World''s Most Erotic Sex',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (176388,392966,'Kid Who Loved Christmas, The','"Just William"',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (333442,103326,'Timestalkers','Escape Through Time',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (336641,232995,'Variety','Mud and Sand',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (335277,152006,'Tommy','Honeymoon Machine, The',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (103326,390177,'Escape Through Time','"Glory Days"',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (219783,176388,'Most Outrageous Game Show Moments, The','Kid Who Loved Christmas, The',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (233815,254478,'My Son, the Hero','Phantom Horseman, The',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (172919,194939,'Kama Sutra, Tantra and Tao: The World''s Most Erotic Sex','Lost Portrait, The',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (283546,334766,'Running Mates','Together We Live',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (390177,176388,'"Glory Days"','Kid Who Loved Christmas, The',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (80477,219783,'Dead Heat','Most Outrageous Game Show Moments, The',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (234582,333442,'Killing Time','Timestalkers',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (232995,292451,'Mud and Sand','Secret Life of an American Wife, The',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (152006,176388,'Honeymoon Machine, The','Kid Who Loved Christmas, The',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (390177,292451,'"Glory Days"','Secret Life of an American Wife, The',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (142897,333442,'Henry IV, Part I','Timestalkers',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (176388,254478,'Kid Who Loved Christmas, The','Phantom Horseman, The',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (335277,219783,'Tommy','Most Outrageous Game Show Moments, The',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (194939,233815,'Lost Portrait, The','My Son, the Hero',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (254478,80477,'Phantom Horseman, The','Dead Heat',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (219783,103326,'Most Outrageous Game Show Moments, The','Escape Through Time',3,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (130211,336641,'Godzina pasowej rózy','Variety',2,'Maya Graff','Same actor first name', NULL);
+INSERT INTO imdb_ijs.movies_recommendations VALUES (142897,292451,'Henry IV, Part I','Secret Life of an American Wife, The',2,'Maya Graff','Same actor first name', NULL);
+
+
+
+
+
+
